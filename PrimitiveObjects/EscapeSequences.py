@@ -1,5 +1,0 @@
-course = "Python \"Programming"
-# \"
-# \\
-# \`
-# \n
